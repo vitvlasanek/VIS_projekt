@@ -1,22 +1,22 @@
 # VIS_projekt
 
-##Vize
+## Vize
 
 daf
 
-###Co?
+### Co?
 daf
 
-###Jak?
+### Jak?
 fd
 
-###Kde?
+### Kde?
 
 df
-###Kdo?
+### Kdo?
 
 df
-###Kdy?
+### Kdy?
 
 df
-###Proč?
+### Proč?
