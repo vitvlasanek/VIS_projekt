@@ -22,3 +22,5 @@ Zákazník se bude moct registrovat a přihlásit, dále prohlížet nabídku ob
 df
 ### Proč?
 Systém bude vytvořen pro zjednodušení a zpříjemnění objednávacího procesu jídla. Měl by také zabraňovat chybám v objednávkách.
+
+![USE CASE DIAGRAM](https://github.com/vitvlasanek/VIS_projekt/blob/master/UseCaseDiagram-Str%C3%A1nka-1.drawio.png)
