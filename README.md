@@ -1,3 +1,9 @@
 # VIS_projekt
 
-## vize
+##Vize
+###Co?
+###Jak?
+###Kde?
+###Kdo?
+###Kdy?
+###Proč?
