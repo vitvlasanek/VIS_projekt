@@ -8,7 +8,7 @@ Informační systém pro rozvoz jídla
 Vytvtářime informační systém pro pobočku rozvážející jídlo.
 
 ### Jak?
-Systém bude vytvářen studentem v jazyce C# 
+Systém bude ukládat objednávky od zákazníků, ty pak bude moct zobrazovat kuchař a bude na jejich základě dělat jídlo. Dále si bude objednávky zobrazí řidič aby viděl jaké jídlo má kam přivézt
 
 ### Kde?
 Objednávky budou probíhat pomocí webového rozhraní. Zaměstanci budou také přistupovat takto.
