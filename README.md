@@ -24,6 +24,7 @@ Zákazník se bude moct registrovat a přihlásit, dále prohlížet nabídku ob
 Systém bude vytvořen pro zjednodušení a zpříjemnění objednávacího procesu jídla. Měl by také zabraňovat chybám v objednávkách. 
  
 ## Use-case diagram
+<div style="text-align:center"><img src="https://github.com/vitvlasanek/VIS_projekt/blob/master/UseCaseDiagram-Str%C3%A1nka-1.drawio.png" /></div>
 ![USE CASE DIAGRAM](https://github.com/vitvlasanek/VIS_projekt/blob/master/UseCaseDiagram-Str%C3%A1nka-1.drawio.png)
 
 ## Activity diagram
